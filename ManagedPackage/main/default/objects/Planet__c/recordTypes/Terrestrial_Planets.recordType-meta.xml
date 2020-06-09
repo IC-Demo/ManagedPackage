@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Terrestrial_Planets</fullName>
+    <active>true</active>
+    <label>Terrestrial Planets</label>
+    <picklistValues>
+        <picklist>Galaxy__c</picklist>
+        <values>
+            <fullName>Eye of Sauron</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Milky Way</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
